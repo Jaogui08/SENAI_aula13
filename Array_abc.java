@@ -13,6 +13,10 @@ public class Array_abc {
 		for (int i=0; i<=4; i++) {
 			System.out.print("Informe o " + (i+1) + "° valor do vetor A: ");
 			valor1[i] = scanner.nextInt();
+		}	
+			
+		System.out.println(" ");
+		for (int i=0; i<=4; i++) {
 			System.out.print("Informe o " + (i+1) + "° valor do vetor B: ");
 			valor2[i] = scanner.nextInt();
 		}
