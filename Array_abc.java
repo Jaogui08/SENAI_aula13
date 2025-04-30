@@ -19,8 +19,6 @@ public class Array_abc {
 		
 		for (int i=0; i<=4; i++) {
 			valor3[i] = valor1[i];
-		}
-		for (int i=0; i<=4; i++) {
 			valor3[i+5] = valor2[i];
 		}
 		
